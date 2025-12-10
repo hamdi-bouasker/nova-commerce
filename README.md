@@ -14,6 +14,7 @@ NovaCommerce is a modern e-commerce application built with a React frontend and 
 *   **Shopping Cart**: Persistent cart state and checkout flow.
 *   **Categories & Filtering**: Filter products by category or sort by price.
 *   **AI Integration**: Integrated Chatbot for customer support (Google GenAI).
+*   **Antigravity IDE**: Project was developed using Antigravity IDE and I was assisted with Antigravity AI.
 
 ## 🛠️ Tech Stack
 

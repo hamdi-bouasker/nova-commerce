@@ -33,7 +33,7 @@ NovaCommerce is a modern e-commerce application built with a React frontend and 
 *   **MySQL**: Relational database for data persistence.
 *   **PDO**: Secure database abstraction layer.
 *   **Apache/Nginx**: Compatible with standard PHP hosting (e.g., InfinityFree).
-*   **Free Hosting**: Project hosted on *infinityfree.com*
+*   **Free Hosting**: Project files and DB configured and hosted on *infinityfree.com*
 
 ## 📂 Project Structure
 

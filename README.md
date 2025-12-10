@@ -1,9 +1,10 @@
 
-# NovaCommerce
+# NovaCommerce   
+https://novacommerce.rf.gd
 
 NovaCommerce is a modern e-commerce application built with a React frontend and a native PHP backend. It features a premium, responsive design, user authentication, product management (admin), and a shopping cart system.
 
-![NovaCommerce Preview](https://via.placeholder.com/800x400?text=NovaCommerce+Preview)
+![NovaCommerce Preview](https://github.com/hamdi-bouasker/nova-commerce/blob/main/nova-commerce.png)
 
 ## 🚀 Key Features
 

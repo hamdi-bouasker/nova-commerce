@@ -24,12 +24,15 @@ NovaCommerce is a modern e-commerce application built with a React frontend and 
 *   **Tailwind CSS**: Utility-first CSS framework for styling.
 *   **Lucide React**: Beautiful & consistent icons.
 *   **State Management**: React Context API (`StoreContext`, `AuthContext`).
+*   **Gemini chatbot**
+
 
 ### Backend
 *   **PHP (Native)**: RESTful API implementation.
 *   **MySQL**: Relational database for data persistence.
 *   **PDO**: Secure database abstraction layer.
 *   **Apache/Nginx**: Compatible with standard PHP hosting (e.g., InfinityFree).
+* Project hosted on infinityfree.com
 
 ## 📂 Project Structure
 

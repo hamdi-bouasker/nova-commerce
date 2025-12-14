@@ -2,6 +2,12 @@
 # NovaCommerce   
 https://novacommerce.rf.gd
 
+This project is proof of concept of the AI strength in generating complete full stack web app. 
+
+I have used Antigravity IDE assisted with integrated Antigravity AI Agent powered by Gemini pro. 
+
+I have only fixed 2 errors manually: navnar drop-down list padding and backend could not connect to DB. 
+
 NovaCommerce is a modern e-commerce application built with a React frontend and a native PHP backend. It features a premium, responsive design, user authentication, product management (admin), and a shopping cart system.
 
 ![NovaCommerce Preview](https://github.com/hamdi-bouasker/nova-commerce/blob/main/nova-commerce.png)
